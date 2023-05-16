@@ -30,6 +30,8 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html>
 <head>
+<title>Kockanje</title>
+<link rel="icon" type="image/x-icon" href="img/favico.png">
     <style>
         *{
             margin: 0;
